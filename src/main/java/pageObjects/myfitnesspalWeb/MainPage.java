@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 public class MainPage {
-    @FindBy(how = How.CSS, using = "h1[class='MuiTypography-root MuiTypography-h2 MuiTypography-paragraph css-154osde'")
+    @FindBy(how = How.CSS, using = "h1[class='MuiTypography-root MuiTypography-Heading/Bold/LG MuiTypography-paragraph css-pfv68y']")
     public WebElement head_mainPage;
 
     @FindBy(how = How.LINK_TEXT, using = "Log In")
