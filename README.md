@@ -68,7 +68,7 @@ These tests can be developed in a simple way, due to robust infrastructure.
 ### _Configutration:_
 The configuration file wasn't attached to the project, since it includes sensitive data, Such as passwords and keys. 
 
-![DataConfig](https://github.com/VitalyDukshtein/Full-Stack-Automation-Project/blob/master/config_file.png)
+![DataConfig](https://github.com/VitalyDukshtein/Full-Stack-Automation-Project/blob/master/Dataconfig_file.png)
 
 ### _Known Issues:_
 Since some of the tests are conducted on a live website, some IDs in the page objects may change.
