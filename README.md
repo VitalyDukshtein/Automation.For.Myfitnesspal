@@ -1,4 +1,4 @@
-#  Full Stack Automation Project  #
+<h1 align="center">Full Stack Automation Project </h1>
 <h3 align="center">Project Sneak Peek</h3>
 
 
@@ -66,8 +66,9 @@ These tests can be developed in a simple way, due to robust infrastructure.
 [[Sanity Tests]](https://github.com/VitalyDukshtein/Full-Stack-Automation-Project/tree/master/src/test/java/sanity)
 
 ### _Configutration:_
-The configuration file wasn't attached to the project since it includes sensitive data, Such as passwords and keys. 
---Need to add screenshot--
+The configuration file wasn't attached to the project, since it includes sensitive data, Such as passwords and keys. 
+
+![DataConfig](https://github.com/VitalyDukshtein/Full-Stack-Automation-Project/blob/master/config_file.png)
 
 ### _Known Issues:_
 Since some of the tests are conducted on a live website, some IDs in the page objects may change.
