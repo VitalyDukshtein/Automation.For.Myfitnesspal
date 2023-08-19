@@ -27,7 +27,7 @@ The project is an example of infrastructure for automation testing of different 
 
 ### **_Infrastructure project includes using of:_**
 * Page Object Design Pattern
-* Project Layers(Extensions/Work Flows/Test Cases...)
+* Project Layers (Extensions/Work Flows/Test Cases...)
 * Support of Different Clients/Browsers
 * Failure Mechanism
 * Common Functionality
@@ -52,10 +52,10 @@ The project is an example of infrastructure for automation testing of different 
 * Appium - For mobile testing
 * Listeners - Interface used to generate logs and customize the TestNG reports
 * MySQL Free Online DB - Used for log-in to Myfitnesspal web page
-* [Jenkins](https://www.jenkins.io/)- For tests execution
+* [Jenkins](https://www.jenkins.io/) - For tests execution
 * REST Assured - For API testing
 * Maven - Plugins Installation
-* [Allure](http://allure.qatools.ru/) Reports - Reporting system
+* [Allure Reports](http://allure.qatools.ru/) - Reporting system
 * [Sikuli](http://www.sikulix.com/) - Visual testing on Myfitnesspal web page
 * [Monte Screen Recorder](https://github.com/sbtqa/monte-media/blob/master/src/main/ru/sbtqa/monte/screenrecorder/ScreenRecorder.java) - For failed tests recording
 
