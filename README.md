@@ -13,7 +13,7 @@
 The project demonstrates a robust automation infrastructure that can be implemented on various applications. 
 It is built in a hierarchy order of modules. The modules contain a number of classes with methods.
 There are main/common/actions/page_object modules.
-In this way, the tests can be created in a simple way with a minimum number of lines of code.
+In this way, the tests can be created in a simple way with a minimum number of code lines.
 **Big advantage of the infrastructure is that it can be easily maintained!**
 
 ### _Project Overview_
